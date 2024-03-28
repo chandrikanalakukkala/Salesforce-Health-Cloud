@@ -5,3 +5,12 @@
 5 Developer Org User:chandrika@gdctirupati.com
 6 Developer Org Password:Gayatri@123
 7 Position:Team Lead
+
+ Name of the Student:Reddyvari munikumari
+2 Learning Track:Developer
+3 Project Name:Salesforce Health Cloud(AD-2)
+4 Tralihead Profile:https://www.salesforce.com/trailblazer/munikumarireddyvari
+5 Developer Org User:munikumari@gdctirupati.com
+6 Developer Org Password:Gayatri@123
+7 Position:Team Member
+
