@@ -14,3 +14,18 @@
 6 Developer Org Password:Gayatri@123
 7 Position:Team Member
 
+1 Name of the Student:Yamuka Bhanupriya
+2 Learning Track:Developer
+3 Project Name:Salesforce Health Cloud(AD-2)
+4 Tralihead Profile:https://www.salesforce.com/trailblazer/bhanupriyayamuka
+5 Developer Org User:bhanubhanu0511@gdctirupati.com
+6 Developer Org Password:Gayatri@123
+7 Position:Team Member
+
+1 Name of the Student:Bukke Nandini
+2 Learning Track:Developer
+3 Project Name:Salesforce Health Cloud(AD-2)
+4 Tralihead Profile:https://www.salesforce.com/trailblazer/nandinibukke
+5 Developer Org User:bukkenandini2022@gdctirupati.com
+6 Developer Org Password:Gayatri@123
+7 Position:Team Member
