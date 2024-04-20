@@ -11,7 +11,7 @@
 3 Project Name:Salesforce Health Cloud(AD-2)
 4 Tralihead Profile:https://www.salesforce.com/trailblazer/kidambisrinivasanyamini
 5 Developer Org User:yamini@gdc.com
-6 Developer Org Password:Gayatri@123
+6 Developer Org Password:Gayatri@12
 7 Position:Team Member
 
 1 Name of the Student:Yamuka Bhanupriya
